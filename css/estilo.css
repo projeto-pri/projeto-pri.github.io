@@ -31,3 +31,9 @@ body{
 .image{max-width: 100%;}
 li{padding: 0.8%;}
 .utphoto{max-width: 22%;}
+
+/* Estilização das imagens dos botões do prijs */
+.botoes_prijs {
+    width: auto;
+    height: 30px;
+}
